@@ -4,8 +4,8 @@ body {
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
-  color: #333333;
-  background-color: Gold;
+  color: Silver;
+  background-color: Red;
 }
 
 a {
@@ -23,7 +23,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: Blue;
+  color: Red;
 }
 
  h1 {
